@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/":["static/chunks/2f236954d6a65e12.js"],"/\u002F_not-found":["static/chunks/58c60a5fa6b544da.js"]}

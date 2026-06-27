@@ -1,0 +1,1 @@
+(self.__TURBOPACK=self.__TURBOPACK||[]).push(["static/chunks/turbopack-af8d4d5c011d7608.js",{}]);
